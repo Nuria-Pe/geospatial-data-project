@@ -1,0 +1,7 @@
+,city,latitude,longitude,geometry,Type
+10,Warsaw,,,POINT (nan nan),Empresa
+13,Warsaw,51.919438,19.145136,POINT (19.145136 51.919438),Empresa
+16,Warsaw,52.2255475,21.0152227,POINT (21.0152227 52.2255475),Empresa
+17,Warsaw,52.1332973,21.0709375,POINT (21.0709375 52.1332973),Empresa
+20,Warsaw,,,POINT (nan nan),Empresa
+27,Warsaw,52.1712424,21.0062704,POINT (21.0062704 52.1712424),Empresa
